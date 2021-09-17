@@ -1,0 +1,51 @@
+body {
+    background-color: lightcyan;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 64px;
+    font-family: Helvetica, sans-serif;
+}
+
+h2 {
+    font-size:48px;
+}
+
+.homeimg {
+    height: auto;
+    width: 300px;
+}
+
+.recipe-img {
+    height: auto;
+    width: 640px;
+}
+
+.light-yellow {
+    background-color:lightgoldenrodyellow;
+}
+
+.light-red {
+    background-color: lightpink;
+}
+
+.light-green {
+    background-color:lightgreen;
+}
+
+ /* Aligns the lists on the page to the center */
+ol, ul {
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.description-para {
+    background-color: rgba(189, 189, 189, 0.336);
+    text-align: center;
+    padding: 15px;
+    margin: 30px 500px;
+    border-radius: 15px;
+}
