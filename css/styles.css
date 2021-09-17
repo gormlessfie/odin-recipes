@@ -44,8 +44,10 @@ ol, ul {
 
 .description-para {
     background-color: rgba(189, 189, 189, 0.336);
+    box-sizing:border-box;
     text-align: center;
+    width: 850px;
     padding: 15px;
-    margin: 30px 500px;
+    margin: 0 auto;
     border-radius: 15px;
 }
